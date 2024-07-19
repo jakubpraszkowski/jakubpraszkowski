@@ -6,7 +6,7 @@
 
 <h3 align="left">Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=godot,unreal,angular,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,angular)](https://skillicons.dev)
 
 <h3 align="left">Databases</h3>
 
@@ -14,5 +14,5 @@
   
 <h3 align="left">Other tools</h3> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=cmake,docker,git,linux,redhat,windows,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cmake,docker,git,linux,redhat,windows,postman)](https://skillicons.dev)
 <p></p>
